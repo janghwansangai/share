@@ -1,0 +1,13 @@
+{
+  "name": "empathy-app-backend",
+  "version": "1.0.0",
+  "description": "Backend server for the Empathy Practice App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^2.7.0"
+  }
+}
